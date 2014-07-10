@@ -3,17 +3,17 @@ body {
 		color: #FF7F50;
 		padding: 25px 50px;
 		font-family: Calibri; 
-		font-size: 40px;
+		font-size: 30px;
 	}
 
 	h1{
-		font-size: 30px
+		font-size: 20px
 		font-weight: bold;
 
 	}
 
 	h2{
-		font-size: 20px
+		font-size: 15px
 		font-weight: bold;
 	}
 
@@ -27,9 +27,5 @@ a:visited {
 }
 a:hover {
     color: #FF00FF;
-    text-decoration: underline;
-}
-a:active {
-    color: #0000FF;
     text-decoration: underline;
 }

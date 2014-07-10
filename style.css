@@ -1,7 +1,11 @@
 body {
-		background-color: #87E293;
+		background-color:#7FFFD4;
 		color: #FF7F50;
-		background-image: url ("http://daema.files.wordpress.com/2008/08/sailingsunset.jpg");
+		font-family: Arial;
+		font-size: 25px;
+
+	}
+
 
 	a {
 		color:blue;

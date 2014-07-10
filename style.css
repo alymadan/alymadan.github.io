@@ -8,3 +8,7 @@ p {
 	padding-right: 50px;
   	padding-left: 50px;
 }
+
+a:hover { color:blue; }
+
+a:visited { color:purple; }

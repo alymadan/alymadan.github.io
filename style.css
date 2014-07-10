@@ -1,14 +1,12 @@
 body {
 		background-color: #87E293;
-}
+		color: #FF7F50;
+		background-image: url ("http://daema.files.wordpress.com/2008/08/sailingsunset.jpg");
 
-p {
-	padding-top: 25px;
-	padding-bottom: 25px;
-	padding-right: 50px;
-  	padding-left: 50px;
-}
-
-a:hover { color:blue; }
-
-a:visited { color:purple; }
+	a {
+		color:blue;
+		text-decoration: none;
+	}
+	a: hover {
+			color: purple;
+	}

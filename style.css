@@ -12,10 +12,11 @@ body {
 	}
 
 	h2{
-		font-size: 15px
+		font-size: 20px
 	}
 
 a:link {
+    font-size: 15px;
     color: #0000FF;
     text-decoration: none;
 }

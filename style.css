@@ -34,11 +34,12 @@ div { background-color: white;
 	font-family: Calibri;
 	font-weight: bold;
 	color: red
-	border-width: 2px;
+	border-width: 5px;
 	border-radius: 5px
 	margin: auto;
 	text-align: center;
+	align: center;
 	height: 100px;
-	width: 200px;
+	width: 150px;
 	border-style: solid;
 }

@@ -30,7 +30,7 @@ a:hover {
     text-decoration: underline;
 }
 
-div { background-color: blue;
+div { background-color: white;
 	font-family: cursive, Calibri;
 	font-weight: bold;
 	color: red
@@ -38,7 +38,7 @@ div { background-color: blue;
 	border-radius: 5px
 	margin: auto;
 	text-align: center;
-	height: 50px;
-	width: 120px;
+	height: 120px;
+	width: 200px;
 	border-style: solid;
 }

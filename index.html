@@ -15,16 +15,21 @@
 	<script>
 
 confirm ("I am ready to see the awesomeness of your site!");
-var age = prompt ("What's your age?");
-if (age <13)
- { console.log ("You're allowed to enter but I take no responsibility.");
+var age = prompt ("How old are you?");
+	if (age <=16)
+ 		{ console.log ("You're allowed to enter but I take no responsibility.") ;
+ 	}
+ 	else { console.log ("Come on in, friend!");
  }
- else { console.log ("Come on in, friend!");}
- console.log ("You are about to feel the bass drop.'");
- console.log ("Y'all ready for this?!"); 
- var userAnswer = prompt ("Seriously, are you ready?");
+
+ prompt = ("You are about to feel the bass drop.'");
+ var feedback = prompt ("Y'all ready for this?!"); 
+ if (feedback === yes)
+{ console.log ("Awesome.")};
+else { console.log (Sorry, Charlie.);
+}
  var feedback = prompt ("Please rate this site out of ten");
- if (feedback >8)
+ if (feedback >7)
  { console.log ("Thank you! Come again!");
  }
  else { console.log ("Fine.");

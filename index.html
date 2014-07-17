@@ -13,27 +13,20 @@
 	 ga('send', 'pageview');
 	</script>	
 	<script>
-confirm ("I am ready to see the awesomeness of your site!");
-var age = prompt("How old are you?");
-	if (age <=16)
- 		{ confirm("You're allowed to enter but I take no responsibility.");
- 	};
- 	else { confirm("Come on in, friend!");
- 	};
- var feedback = prompt("Y'all ready for this?!"); 
- if (feedback === yes)
-{ confirm("Awesome.")};
-else { confirm(Sorry, Charlie.);
-};
- var feedback = prompt("Please rate this site out of ten");
- if (feedback >7)
- { confirm("Thank you! Come again!");
- };
- else { confirm("Fine.");
- };
+confirm ("I am ready to see the awesomeness of this site!");
+var age = prompt ("What's your age?");
+if (age <13)
+ { return ("You're allowed to see it, but I take no responsibility.");
+ }
+ else { return ("Come on in, friend!");}
+ var userAnswer = prompt ("Click okay if you're sure you can handle it!");
+ var feedback = prompt ("Please rate this game out of ten.");
+ if (feedback >8)
+ { console.log ("Thank you! Come again!");
+ }
+ else { console.log ("I'll keep practicing coding!");
+ }
 	</script>
-
-
 	</head>
 	<body>
 	<h1>Aly Madan</h1>

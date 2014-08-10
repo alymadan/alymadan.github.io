@@ -5,5 +5,3 @@
 
 	 ga('create', 'UA-52750242-1', 'auto');
 	 ga('send', 'pageview');
-
-confirm ("I am ready to check out this site!");
